@@ -18,13 +18,13 @@ Inspiration
 Clone the project
 
 ```bash
-  git clone https://github.com/emirchus/instragram-app
+  git clone https://github.com/emirchus/instagram-app
 ```
 
 Go to the project directory
 
 ```bash
-  cd instragram-app
+  cd instagram-app
 ```
 
 Install dependencies
@@ -74,11 +74,11 @@ To run tests, run the following command
 
 ## Features
 
-- TBH
+- TBD
 
 ## Goals
 
-- TBH
+- TBDS
 
 ## Feedback
 
